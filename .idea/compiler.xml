@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine.Coffee_Machine-task-build-classes-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-reports-tests.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-test-results.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-tmp.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Enum_with_two_constants.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Hidden_enumeration.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Reasons_to_use_enum.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Balance_management.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Danger_levels.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-System_of_units.main" target="11" />
+      <module name="Coffee_Machine.Topics-Fields_and_methods_in_enum-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Detail_manufacturing.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Mystery_of_the_methods.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Project_constants_and_methods.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Searching_bugs.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Too_many_cats.main" target="11" />
+      <module name="Coffee_Machine.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
